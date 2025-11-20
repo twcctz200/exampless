@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
-    "@astrojs/node": "^8.2.5",
+    "@astrojs/node": "^9.4.5",
     "@neondatabase/serverless": "^1.0.0",
-    "astro": "^4.9.2",
+    "astro": "^5.15.9",
     "typescript": "^5.4.5"
   }
 }
