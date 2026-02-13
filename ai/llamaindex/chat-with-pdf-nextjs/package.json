@@ -17,7 +17,7 @@
     "ai": "^2.2.35",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "llamaindex": "^0.3.17",
+    "llamaindex": "^0.8.32",
     "lucide-react": "^0.394.0",
     "next": "14.2.21",
     "react": "^18",
